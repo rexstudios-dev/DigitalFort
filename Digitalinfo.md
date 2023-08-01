@@ -1,9 +1,15 @@
 <h1 align="center">DigitalFort Organization 👨‍💻🏰</h1>
 
 <p align="center">
-  <img style=" border-radius: 50;" src="https://cdn.discordapp.com/attachments/1136054250972139604/1136068109820776580/WhatsApp_Image_2023-08-01_at_19.08.38_1.jpeg" alt="DigitalFort Organization Logo" width="200" height="200">
+  <img class="circulo" border-radius: 50;" src="https://cdn.discordapp.com/attachments/1136054250972139604/1136068109820776580/WhatsApp_Image_2023-08-01_at_19.08.38_1.jpeg" alt="DigitalFort Organization Logo" width="200" height="200">
 </p>
-
+<style> 
+      .circulo{
+        width: 200px;
+        height: 200px; 
+        border-radius: 100px;
+      }
+    </style>
 ## Descripción 📝
 
 ¡Bienvenido a DigitalFort Organization! Somos una comunidad apasionada por la tecnología y la seguridad digital. Nuestra misión es proteger y fortalecer la presencia en línea de comunidades mediante servicios de auditorías, diseño web y ciberseguridad. 🛡️💻💪
