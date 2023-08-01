@@ -20,7 +20,7 @@
 
 ¡Nos encantaría contar con tu ayuda para fortalecer nuestra comunidad! Sigue estos pasos para contribuir:
 
-1. 🍴 Haz un fork de este repositorio.
+1. 🍴 Haz un fork de este repositorio. 
 2. 🖥️ Clona el repositorio en tu máquina local.
 3. 🌿 Crea una rama para trabajar en tu propuesta de contribución: `git checkout -b nombre-de-tu-rama`.
 4. 🛠️ Realiza los cambios y mejoras que consideres necesarios.
@@ -35,16 +35,10 @@
 
 Si tienes alguna pregunta o inquietud relacionada con el proyecto o el proceso de contribución, no dudes en contactarnos:
 
-- 📧 Correo Electrónico: [tu-email@dominio.com]
+- 📧 Correo Electrónico: [No puse]
 - 🌐 Sitio Web: [https://www.digitalfort.org]
 - 💬 Slack: [Enlace al canal de Slack]
 
 ¡Esperamos contar con tu colaboración! 🤗
 
-## Licencia 📜
 
-[Indicar la licencia bajo la cual se distribuye el proyecto, por ejemplo: MIT License]
-
-[Incluir cualquier otra información relevante sobre el proyecto que consideres necesaria.]
-
-Recuerda personalizar este README con la información específica de tu proyecto. Los emojis pueden ayudar a darle un toque de personalidad y facilitar la lectura, ¡pero asegúrate de mantener el contenido claro y conciso! ¡Buena suerte con tu proyecto "DigitalFort Organization"! 💪🚀
