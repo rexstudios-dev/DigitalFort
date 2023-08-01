@@ -1,7 +1,7 @@
 <h1 align="center">DigitalFort Organization 👨‍💻🏰</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1136054250972139604/1136068109820776580/WhatsApp_Image_2023-08-01_at_19.08.38_1.jpeg" alt="DigitalFort Organization Logo" width="200" height="200">
+  <img style=" border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1136054250972139604/1136068109820776580/WhatsApp_Image_2023-08-01_at_19.08.38_1.jpeg" alt="DigitalFort Organization Logo" width="200" height="200">
 </p>
 
 ## Descripción 📝
